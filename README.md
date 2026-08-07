@@ -44,6 +44,23 @@ JobResumeMatcher/
 pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home](screenshots/home.png)
+
+### 📄 Resume Upload
+
+![Upload](screenshots/upload.png)
+
+### 📊 Analysis Result
+
+![Result](screenshots/result.png)
+
+### 📈 Dashboard
+
+![Dashboard](screenshots/dashboard.png)
 
 ## 👨‍💻 Author
 
