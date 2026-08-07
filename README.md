@@ -65,3 +65,7 @@ streamlit run streamlit_app.py
 ## 👨‍💻 Author
 
 **KV Balaji**
+- GitHub: https://github.com/balaji20102004
+- Live Demo: https://ai-resume-matcher-mi6raczeuisuwad6jswavf.streamlit.app/
+
+
